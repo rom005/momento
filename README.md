@@ -1,6 +1,6 @@
 # Momento — AI Travel Memory Platform
 
-Momento is a production-grade AI Travel Memory Platform designed to showcase:
+Momento is a an AI Travel Memory Platform designed to showcase:
 
 - **Rust backend engineering**
 - **Distributed systems**
